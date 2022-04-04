@@ -17,7 +17,6 @@ func main() {
 	fmt.Println(result)
 }
 
-// leetcode part
 func average(salary []int) float64 {
 	minSalary := salary[0]
 	maxSalary := salary[1]

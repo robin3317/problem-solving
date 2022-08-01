@@ -4,7 +4,7 @@ A repo of [JavaScript Algorithms and Data Structures Masterclass by Colt Steele]
 
 ## Topics of the course:
 
-- [Section 1: Introduction](#Section-1:-Introduction)
+- [Section 1: Introduction](#section-1:-introduction)
 - Section 2: Big O Notation
 - Section 3: Analyzing Performance of Arrays and Objects
 - Section 4: Problem Solving Approach

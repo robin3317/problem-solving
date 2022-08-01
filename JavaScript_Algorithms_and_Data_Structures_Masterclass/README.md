@@ -35,4 +35,4 @@ A repo of [JavaScript Algorithms and Data Structures Masterclass by Colt Steele]
 - Section 29: Dynamic Programming
 - Section 30: The Wild West
 
-## Section 1: Introduction
+# Section 1: Introduction

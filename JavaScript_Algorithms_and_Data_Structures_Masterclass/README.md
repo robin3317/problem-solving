@@ -2,9 +2,9 @@
 
 A repo of [JavaScript Algorithms and Data Structures Masterclass by Colt Steele](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) course.
 
-### Topics of the course:
+## Topics of the course:
 
-- Section 1: Introduction
+- [Section 1: Introduction](#Section-1:-Introduction)
 - Section 2: Big O Notation
 - Section 3: Analyzing Performance of Arrays and Objects
 - Section 4: Problem Solving Approach
@@ -34,3 +34,5 @@ A repo of [JavaScript Algorithms and Data Structures Masterclass by Colt Steele]
 - Section 28: Dijkstra's Algorithm
 - Section 29: Dynamic Programming
 - Section 30: The Wild West
+
+## Section 1: Introduction

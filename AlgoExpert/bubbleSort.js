@@ -1,3 +1,6 @@
+/*
+Sort an array using bubble sort algorithm
+*/
 function bubbleSort(array) {
   let noSwap
   for (let i = array.length; i > 0; i--) {

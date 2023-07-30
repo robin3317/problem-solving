@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/counter/description/
+
 /**
  * @param {number} n
  * @return {Function} counter

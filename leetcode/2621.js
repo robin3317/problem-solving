@@ -4,10 +4,16 @@
  * @param {number} millis
  */
 async function sleep(millis) {
-    return new Promise((res, rej) => {
-        setTimeout(() => res(), millis)
+    return new Promise((res) => {
+        setTimeout(res, millis)
     })
 }
+
+// async function sleep(millis) {
+//     return new Promise((res, rej) => {
+//         setTimeout(() => res(), millis)
+//     })
+// }
 
 /** 
  * let t = Date.now()
